@@ -1,4 +1,4 @@
-#FizzBuzz Read Me
+# FizzBuzz Read Me
 
 This here is a simple project based on the children's game "FizzBuzz." 
 
