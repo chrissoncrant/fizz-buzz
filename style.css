@@ -7,7 +7,7 @@
 body {
     margin: 0;
     line-height: 1.6;
-    /*font-family: */
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
 }
 
 img {
@@ -25,3 +25,47 @@ h6,
 p {
     margin: 0;
 }
+
+h1 {
+    border: 0px solid black;
+    text-align: center;
+    margin: auto;
+}
+
+.yourNumber {
+    display: flex;
+    justify-content: center;
+    align-items: baseline;
+    width: 25%;
+    margin: auto;
+}
+
+h2 {
+    margin-top: 1em;
+}
+
+.yourNumber p {
+    font-weight: bold;
+    color: Purple;
+    margin: 24px 0 0 0;
+    padding: 0;
+}
+
+.valueDisplay {
+    width: 25%;
+    margin: 1em auto;
+    border: 1px solid black;
+    border-radius: 5px;
+}
+
+p {
+    text-align: center;
+    margin: 1em auto;
+    width: 20%;
+    font-size: 1.3em;
+    border-radius: 5px;
+}
+
+
+
+
